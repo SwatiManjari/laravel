@@ -175,13 +175,6 @@ docker-compose run --rm artisan migrate
 - Debugging container and application errors.
 - Using Git and GitHub to version-control a project.
 
-## Notes
-
-- The application is intended for local development and learning.
-- Database credentials and other sensitive environment variables should be configured locally.
-- The actual environment files are excluded from version control.
-- Additional configuration may be required depending on the local environment.
-
 ## Author
 
 Swati Manjari
